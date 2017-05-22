@@ -27,4 +27,4 @@ Currently Supported Terminals
 
 Special Thanks to
 -
-[**2f30**](git.2f30.org/), The developer of the colour extractor
+[**2f30**](https://git.2f30.org/), The developer of the colour extractor
