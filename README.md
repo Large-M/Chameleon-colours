@@ -5,16 +5,16 @@ A shell script which automatically applies 2f30's color script to your terminal 
 Using Chameleon
 -
 
-1. Clone this repository using:
+1. Clone this repository using: <br>
 `git clone http://github.com/Chameleon-colors.git`
 
-2. From within the chameleon colors directory clone 2f30's colour script with:
+2. From within the chameleon colors directory clone 2f30's colour script with: <br>
 `git clone git://git.2f30.org/colors.git`
 
-2. Once you've cloned the repository, move into the colors directory and run this command:
+2. Once you've cloned the repository, move into the colors directory and run this command: <br>
 `make && cd bin && gcc hex2col.c -o hex2col && mv hex2col ../ && cd ..`
 
-3. To use the Chameleon you'll need to run the script file and pass the image you want to extract the colour from as an argument. Like this:
+3. To use the Chameleon you'll need to run the script file and pass the image you want to extract the colour from as an argument. Like this: <br>
 `./chameleon.sh ~/Pictures/Wallpapers/choice.png`
 > **Note**
 > * All files that are passed as arguments need to be .png files in the current version of this script
